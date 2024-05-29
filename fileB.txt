@@ -1,1 +1,3 @@
 Here is some more random text to populate file B
+Here is a change on text file B
+Changing this file yet again
