@@ -1,2 +1,6 @@
 Here is some material to help learn branching 
+<<<<<<< HEAD
 This is a change to create a branch on fileA within the main branch
+=======
+Here is a change on a text file A
+>>>>>>> feature
